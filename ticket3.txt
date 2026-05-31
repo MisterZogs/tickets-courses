@@ -1,0 +1,48 @@
+    2 RUE GASTON DE FLOTTE          
+            FR-13012MARSEILLE             
+             Ticket de vente              
+Article             P.U.EUR Qté    EUR
+8 raviolis vapeur      3,99  1    3,99 A T
+     Réduction Lidl Plus           -1,00
+La Laitière île flo.   2,99  1    2,99 A T
+     Prix en baisse                -0,01
+     Rabais 25%                    -0,75
+Banh Bao Porc          2,99  1    2,99 A T
+     Réduction Lidl Plus           -0,54
+ -----------                             
+Tortellini épinards    1,49  2    2,98 A T
+Accras de morue        2,99  1    2,99 A T
+Meule fruitée râpée    3,69  1    3,69 A T
+Galette de pois        1,99  1    1,99 A T
+Président Emmental     5,45  1    5,45 A T
+Galette soja tomate    1,99  1    1,99 A T
+Assortiment vapeur     3,99  1    3,99 A T
+Gnocchi au pesto       1,79  1    1,79 A T
+Plat.mini nems porc    2,45  1    2,45 A T
+Magret de Canard IGP              7,97 A T
+  0,364 kg x 21,90  EUR/kg
+Magret de Canard IGP              9,33 A T
+  0,426 kg x 21,90  EUR/kg
+Shot gingembre Bio     0,99  2    1,98 A T
+Shot de gingembre Bi   0,79  3    2,37 A T
+Feta grecque           2,45  1    2,45 A T
+Beurre bio doux        2,89  2    5,78 A T
+Crépinettes x 4        3,99  1    3,99 A T
+Camembert de chèvre    2,29  1    2,29 A T
+Crème fraîche 30%      1,89  1    1,89 A T
+Compote de pommes      2,35  2    4,70 A T
+Compote Pomme Banane   2,16  2    4,32 A T
+Verseuse de sel fin    1,63  1    1,63 A T
+Galettes de riz choc   1,29  2    2,58 A T
+Sacs poubelles 30L     1,12  1    1,12 B  
+Chocolat au lait Bio   1,89  1    1,89 B T
+Chocolat noir Bio      1,59  1    1,59 A T
+Chocolat noir 85% ca   1,87  1    1,87 A T
+BIO Chocolat noir      2,15  1    2,15 A T
+Banane Bio fairtrade              1,48 A T
+  0,708 kg x 2,09   EUR/kg
+Nombre de lignes: 31                    
+------------------------------------------
+A payer                            96,37
+                                91,00 HT
+Total éligible TR (T) :            95,25
